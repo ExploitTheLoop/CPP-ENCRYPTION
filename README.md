@@ -1,4 +1,4 @@
-**[Source available on GitHub](https://github.com/adamyaxley/Obfuscate)**
+**[Source available on GitHub](https://github.com/ExploitTheLoop/CPP-ENCRYPTION)**
 
 # Obfuscate
 Guaranteed compile-time string literal obfuscation header-only library for C++14.
